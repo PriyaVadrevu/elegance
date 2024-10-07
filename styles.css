@@ -1,0 +1,231 @@
+body, html{
+    height: 100%;
+	
+}
+.fullscreen{
+	min-height:100%;
+	width: 100%;
+	background-image: url(images/05.jpg); 
+	background-repeat: no-repeat;
+	
+}
+.overlay{
+    height:100%;
+	width: 100%;
+    background-color: rgba(0,0,0, .3);
+    color: #FFF;
+}
+.topbar{
+	min-height:100px;
+	width: 100%;
+	background-color: bisque;
+	
+}
+.topbar-01{
+	min-height:50px;
+	width: 100%;
+	background-color:white;
+	opacity: .5;
+	padding-left: 35%;
+	font-family:Lithos Pro;
+	font-size: 20px;
+	text-align: center;
+	
+	
+}
+
+.container-fluid{	
+	margin: 0 auto;
+	padding: 0 auto;
+}
+.container{
+	text-align: center;
+	font-family: "April flower";
+	color:aliceblue;
+	
+}
+.fullscreen2{
+	background-color: coral;
+	min-height: 600px; 
+	
+}
+
+.maindiv{
+	
+	min-height: 300px;
+	text-align: center;
+	
+	color:aliceblue;
+
+	margin-top: 100px;
+	
+}
+.maindiv01{
+	
+}
+
+.maindiv-01{
+	min-height: 300px;
+	float: left;
+	
+	padding: 0px;
+}
+.maindiv-02{
+	min-height: 300px;
+	padding: 0px;
+	float: left;
+	text-align: center;
+
+	
+}
+.maindiv-03{
+	min-height: 300px;
+	padding: 0px;
+}
+
+
+.bg-black{
+	background-color: black;
+	display: block;
+	padding-bottom: 50px;
+	
+}
+.bg-black01{
+	background-color: black;
+	display: block;
+	padding-top: 50px;
+	
+}
+.bg-black02{
+	background-color: black;
+	display: block;
+	padding-bottom: 50px;
+	
+}
+
+.nav a{
+	color: red;
+    text-align: center;
+}
+ul li{
+	float: left;
+	line-height: 30px;
+
+}
+
+.btn-lg {
+	opacity: .5;
+	color: dimgray;
+	border-radius: 300px;
+	
+}
+.fullscreen3{
+	background-image: url(images/sections2.jpg);
+	min-height:100%;
+	width: 100%;
+	background-attachment: fixed;
+}
+.overlay01{
+    min-height:100%;
+	width: 100%;
+    background-color: rgba(0,0,0, .);
+    color: #FFF;
+	padding: 10px;
+} 
+
+
+.section-02{
+	
+	width: 100%;
+	min-height:700px; 
+	font-family: "April Flowers";
+	padding-top: 100px;
+	color: white;
+	
+}
+
+.s2text{
+	background-color: white;
+	
+}
+
+.h-one-again{
+	text-align: center;
+	padding-bottom: 60px;
+	margin: 0px;
+	color: aliceblue;
+}
+
+.productimg{
+	background-color: white;
+	 background-color: rgba(1,1,1, .1);
+	
+}
+.fullscreen4{
+	background-image: url(images/s4-2.jpg);
+	min-height:100%;
+	width: 100%;
+	background-attachment: fixed;
+	
+	
+}
+.section-04{
+    width: 100%;
+	min-height:500px;
+	background-color:rgba(1,1,1, .3);
+	font-family: "April Flowers";
+	margin-top: 60px;
+	color: white;	
+}
+.spf{
+   font-size: 25px;
+}
+.fullscreen5{
+	background-image: url(images/s5.jpg);
+	min-height:100%;
+	width: 100%;
+	background-attachment: fixed;
+}
+.section-05{
+	width: 100%;
+	min-height:500px;
+	background-color:rgba(1,1,1, .3);
+	font-family: "April Flowers";
+	margin-top: 60px;
+	color: white;	
+}
+.fullscreen6{
+	background-image: url(images/s7.jpg);
+	min-height:100%;
+	width: 100%;
+	background-attachment: fixed;
+}
+.section-06{
+	width: 100%;
+	min-height:500px;
+	background-color:rgba(1,1,1, .3);
+	font-family: "April Flowers";
+	margin-top: 60px;
+	color: white;	
+}
+.fullscreen7{
+	background-color:darkslateblue;
+	min-height: 500px;
+	width: 100%;
+	
+}
+.footer{
+	width: 100%;
+	min-height:400px;
+	background-color:rgba(1,1,1, .1);
+	font-family: "Agency FB";
+	margin-top: 60px;
+	color: white;	
+}
+ol {
+	list-style: none;
+	font-size: 22px;
+}
+#search{
+	width: 200px;
+}

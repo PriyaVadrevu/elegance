@@ -1,0 +1,44 @@
+.one{
+	background-color:#959595;
+	min-height:45px;
+}
+.two{
+	background-color:#959595;
+	min-height:500px;
+	margin-top:20px;
+}
+.two-01{
+	background-color:#959595;
+	min-height:200px;
+	margin-top:20px;
+}
+.two-02{
+	background-color:#959595;
+	min-height:100px;
+	margin-top:20px;
+}
+.three{
+	background-color:#959595;
+	min-height:45px;
+	margin-top:20px;
+}
+.images{
+	background-color:#E6E6E6;
+	min-height:400px;
+}
+.images-01{
+	background-color:#E6E6E6;
+	min-height:650px;
+	padding:20px;
+}
+.image-left{
+	padding-right:15px;
+	padding-bottom: 15px;
+}
+.image-right{
+	padding-left:15px;
+	padding-bottom: 15px;
+}
+.para{
+	text-align:justify;
+}
