@@ -1,1 +1,1 @@
-# elegance
+# elegance is an e-commerce mock-up of a website
