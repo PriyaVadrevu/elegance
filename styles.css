@@ -62,6 +62,9 @@ body, html{
 }
 .maindiv01{
 	
+	text-align: center;
+	color:rgb(0, 0, 0);
+	
 }
 
 .maindiv-01{
@@ -128,7 +131,7 @@ ul li{
 .overlay01{
     min-height:100%;
 	width: 100%;
-    background-color: rgba(0,0,0, .);
+    background-color: rgba(0,0,0,);
     color: #FFF;
 	padding: 10px;
 } 
